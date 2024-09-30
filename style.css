@@ -1,3 +1,8 @@
+
+body {
+    background:url("")
+    font-family: Bai Jamjuree;
+}
 #container
 {
     display: flex;
